@@ -39,7 +39,7 @@ Here the steps to create the project.
 4. Associate to this project the Machine Learning Service. Click on Manage Tab and then select Services & Integration, then click on the Associate Service button, select the Watson Machine Learning service and click on the Associate button.
 5. On the Asset tab click on the New Asset button, select the AutoAI builder.
 6. In the "Create an AutoAI experiment" page enter "InsuranceAIExperiment" as name and click the Create button.
-7. In the "InsuranceAIExperiment" page add the [insurance.csv](InsuranceTutorial/insurance.csv) file.
+7. In the "InsuranceAIExperiment" page add the [insurance.csv](insurance.csv) file.
 8. In the "Configure details" the tool ask "Create a time series analysis?", click on "No" button.
 9. The page then ask "What do you want to predict?", select the "charges" field.
 10. Click on the "Run experiment" button.
