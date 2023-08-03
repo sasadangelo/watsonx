@@ -1,4 +1,4 @@
-# Insurance Data Studio Tutorial
+# Insurance Tutorial
 
 ## Prerequisites
 
